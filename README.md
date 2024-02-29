@@ -1,13 +1,4 @@
 
-# Burp Suite Certified Practitioner Exam Study  
-
->This is my study notes with over a 100 PortSwigger Academy labs that I used to pass the [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification) Exam and obtained my [BSCP qualification](https://portswigger.net/web-security/e/c/6e42f5738e5b9bf8).  
->Go to [PortSwigger Academy](https://portswigger.net/web-security/all-materials) to get the original learning materials.  
-  
-**[SCANNING](#scanning) - Enumeration**  
-[Focus Scanning](#focus-scanning)  
-[Scan non-standard entities](#scanning-non-standard-data-structures)  
-
 **[FOOTHOLD](#foothold) - Stage 1**  
 [Content Discovery](#content-discovery)  
 [DOM-XSS](#dom-based-xss)  
